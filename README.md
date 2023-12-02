@@ -46,17 +46,22 @@ Try out the website : [REACT SQL Editor](https://react-sql-editor-beta.vercel.ap
 Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
 we can check code spnappyness GTmetrix Grade.
 
-![GTmetrix Grade Report](Screenshot/snapyness.PNG)
+![GTmetrix Grade Report][snapyness]--- (https://github.com/Saloni210804/react-sql-editor./assets/121386095/6bdd8a0c-52e8-459e-bafa-9574c569e605)
+GTmetrix Grade - A, Performance 100%, Structure-99%, Web Vitals: LCP:266ms, TBT 0ms, CLS 0.
 
 ### [web.dev Report](https://pagespeed.web.dev/)
 
 Laptop performance view
 
-![web.dev Report](Screenshot/performance.PNG)
+![web.dev Report]-----<img width="549" alt="performance" src="https://github.com/Saloni210804/react-sql-editor./assets/121386095/a03f22cb-e8a2-4c38-8957-04020ac8d738">
+100% performance, first contentful paint- 0.2s, speed index- 0.9s, Largest Contentful Paint-0.5s, Time to interactive- 0.5s, Total blocking time- 0ms, cumulative layout shift - 0.
 
 Mobile performance view
 
-![web.dev Report](Screenshot/mobileperformance.PNG)
+![web.dev Report]------
+<img width="510" alt="mobileperformance" src="https://github.com/Saloni210804/react-sql-editor./assets/121386095/505298f7-9e56-44b5-ac20-0ecb03c38d49">
+98% performance, first contentful paint- 0.8s, speed index- 1.7s, Largest Contentful Paint-2.2s, Time to interactive- 2.2s, Total blocking time- 120ms, cumulative layout shift - 0.
+Mobile performance view
 
 ## Steps I took to optimize the page load time
 
@@ -89,7 +94,8 @@ Your app is ready to be deployed!
 
 ##  Project Output
 
-![Homepage](Screenshot/main_project.PNG)
+![Homepage]-----<img width="960" alt="main_project" src="https://github.com/Saloni210804/react-sql-editor./assets/121386095/c99e0d50-37b3-4906-b61b-c280b5f7ae67">
+
 # react-sql-editor
 This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 # react-sql-editor.
